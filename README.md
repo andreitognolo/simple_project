@@ -1,3 +1,2 @@
 simple_project
 ==============
-a
