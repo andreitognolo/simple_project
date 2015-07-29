@@ -3,3 +3,4 @@ simple_project
 ==============
 a
 b
+c
