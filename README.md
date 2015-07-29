@@ -1,8 +1,5 @@
 ahoi
 simple_project
 ==============
-a
-b
-c
-d
-e
+
+[![Build Status](http://vagrant.snap-ci.com/andreitognolo/simple_project/branch/master/build_image)](http://vagrant.snap-ci.com/andreitognolo/simple_project/branch/master)
