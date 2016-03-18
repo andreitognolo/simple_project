@@ -1,4 +1,4 @@
-ahoi
+
 simple_project
 ==============
 
